@@ -1,4 +1,4 @@
-# Rookie in Java Development
+# Just a Java Rookie
 
 ✨Coming soon✨
 
