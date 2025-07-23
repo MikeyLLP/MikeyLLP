@@ -8,7 +8,7 @@
 
 ### 🧠 I try to learn
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql)](https://skillicons.dev)
 
 ---
 
