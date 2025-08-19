@@ -2,7 +2,6 @@
 
 🧑‍💻 **Mikey** - Rookie Dev  
 🎮 Minecraft Plugin Developer  
-📦 Project: [MiniGamesV4](https://github.com/MikeyLLP/MiniGamesV4)
 
 ---
 
